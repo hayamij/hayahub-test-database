@@ -1,0 +1,37 @@
+[
+  {
+    "id": "usr_1767726868486_e2o7706",
+    "email": "nqtuanp2005@gmail.com",
+    "name": "Phuong",
+    "role": "USER",
+    "createdAt": "2026-01-06T19:14:28.486Z",
+    "updatedAt": "2026-01-06T19:14:28.486Z"
+  },
+  {
+    "id": "usr_1767727382739_3e3ban1",
+    "email": "nqtuanp2006@gmail.com",
+    "name": "Phuong",
+    "password": "MTIzNDU2Nw==",
+    "role": "USER",
+    "createdAt": "2026-01-06T19:23:02.739Z",
+    "updatedAt": "2026-01-06T19:23:02.739Z"
+  },
+  {
+    "id": "usr_1767728829070_ewpurqk",
+    "email": "nqtuanp2007@gmail.com",
+    "name": "Phuong",
+    "password": "MTIzNDU2",
+    "role": "USER",
+    "createdAt": "2026-01-06T19:47:09.070Z",
+    "updatedAt": "2026-01-06T19:47:09.070Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s",
+    "email": "test@gmail.com",
+    "name": "test2",
+    "password": "MTIzNDU2",
+    "role": "USER",
+    "createdAt": "2026-01-07T22:38:26.370Z",
+    "updatedAt": "2026-01-08T04:21:31.652Z"
+  }
+]
