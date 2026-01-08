@@ -20,5 +20,16 @@
     "notes": "",
     "createdAt": "2026-01-08T23:44:11.190Z",
     "updatedAt": "2026-01-08T23:44:11.190Z"
+  },
+  {
+    "id": "preset_1767915945722_9oiseir",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "notes": "",
+    "createdAt": "2026-01-08T23:45:45.722Z",
+    "updatedAt": "2026-01-08T23:45:45.722Z"
   }
 ]
