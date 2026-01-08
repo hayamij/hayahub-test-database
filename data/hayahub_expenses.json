@@ -228,18 +228,6 @@
     "updatedAt": "2026-01-08T20:44:45.990Z"
   },
   {
-    "id": "exp_1767905124007_snooqn5",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "test",
-    "amount": 100000,
-    "currency": "VND",
-    "category": "TRANSPORT",
-    "date": "2026-01-09T00:00:00.000Z",
-    "tags": [],
-    "createdAt": "2026-01-08T20:45:24.007Z",
-    "updatedAt": "2026-01-08T20:45:24.007Z"
-  },
-  {
     "id": "exp_1767905758378_qm8dk2h",
     "userId": "usr_1767825506370_0v10k3s",
     "description": "test1",
