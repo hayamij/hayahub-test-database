@@ -394,17 +394,5 @@
     "tags": [],
     "createdAt": "2026-01-08T23:42:54.154Z",
     "updatedAt": "2026-01-08T23:42:54.154Z"
-  },
-  {
-    "id": "exp_1767916444768_r3sldcn",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "mua bánh",
-    "amount": 140000,
-    "currency": "VND",
-    "category": "FOOD",
-    "date": "2026-01-09T00:00:00.000Z",
-    "tags": [],
-    "createdAt": "2026-01-08T23:54:04.768Z",
-    "updatedAt": "2026-01-08T23:54:04.768Z"
   }
 ]
