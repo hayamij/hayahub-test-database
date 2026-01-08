@@ -382,5 +382,17 @@
     "tags": [],
     "createdAt": "2026-01-08T22:25:52.245Z",
     "updatedAt": "2026-01-08T22:25:52.245Z"
+  },
+  {
+    "id": "exp_1767915774154_bo8w3yr",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T23:42:54.154Z",
+    "updatedAt": "2026-01-08T23:42:54.154Z"
   }
 ]
