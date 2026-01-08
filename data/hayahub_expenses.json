@@ -382,5 +382,29 @@
     "tags": [],
     "createdAt": "2026-01-08T22:02:50.633Z",
     "updatedAt": "2026-01-08T22:02:50.633Z"
+  },
+  {
+    "id": "exp_1767910743871_targvwa",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test private repo",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T22:19:03.871Z",
+    "updatedAt": "2026-01-08T22:19:03.871Z"
+  },
+  {
+    "id": "exp_1767911152245_15wn9jo",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "pv",
+    "amount": 16000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T22:25:52.245Z",
+    "updatedAt": "2026-01-08T22:25:52.245Z"
   }
 ]
