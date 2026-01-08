@@ -1,0 +1,386 @@
+[
+  {
+    "id": "exp_1767834763781_jrh8612",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 100000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-08T01:12:26.474Z",
+    "tags": [
+      "test"
+    ],
+    "createdAt": "2026-01-08T01:12:43.781Z",
+    "updatedAt": "2026-01-08T01:13:32.748Z"
+  },
+  {
+    "id": "exp_1767836673624_62ihzou",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test2",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-07T00:00:00.000Z",
+    "tags": [
+      "testt"
+    ],
+    "createdAt": "2026-01-08T01:44:33.624Z",
+    "updatedAt": "2026-01-08T01:44:33.624Z"
+  },
+  {
+    "id": "exp_1767837727796_sctb1ed",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test3",
+    "amount": 125000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2025-12-11T00:00:00.000Z",
+    "tags": [
+      "test3"
+    ],
+    "createdAt": "2026-01-08T02:02:07.796Z",
+    "updatedAt": "2026-01-08T02:02:07.796Z"
+  },
+  {
+    "id": "exp_1767838546740_2sy11lp",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 21000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-08T02:15:30.768Z",
+    "tags": [
+      "test"
+    ],
+    "createdAt": "2026-01-08T02:15:46.740Z",
+    "updatedAt": "2026-01-08T02:15:46.740Z"
+  },
+  {
+    "id": "exp_1767838583388_lbad4ag",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "áo",
+    "amount": 170000,
+    "currency": "VND",
+    "category": "SHOPPING",
+    "date": "2026-01-08T02:15:58.720Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:16:23.388Z",
+    "updatedAt": "2026-01-08T02:16:23.388Z"
+  },
+  {
+    "id": "exp_1767840508117_rbwflnc",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-06T00:00:00.000Z",
+    "tags": [
+      "test"
+    ],
+    "createdAt": "2026-01-08T02:48:28.117Z",
+    "updatedAt": "2026-01-08T02:48:28.117Z"
+  },
+  {
+    "id": "exp_1767840536767_12psngn",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 11000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-05T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:48:56.767Z",
+    "updatedAt": "2026-01-08T02:48:56.767Z"
+  },
+  {
+    "id": "exp_1767840595414_lf13ide",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 13000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-04T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:49:55.414Z",
+    "updatedAt": "2026-01-08T02:49:55.414Z"
+  },
+  {
+    "id": "exp_1767840617926_gtgz0la",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 14000,
+    "currency": "VND",
+    "category": "ENTERTAINMENT",
+    "date": "2026-01-03T00:00:00.000Z",
+    "tags": [
+      "test"
+    ],
+    "createdAt": "2026-01-08T02:50:17.926Z",
+    "updatedAt": "2026-01-08T02:50:17.926Z"
+  },
+  {
+    "id": "exp_1767840633716_xq0kd09",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 115000,
+    "currency": "VND",
+    "category": "HOUSING",
+    "date": "2026-01-02T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:50:33.716Z",
+    "updatedAt": "2026-01-08T02:50:33.716Z"
+  },
+  {
+    "id": "exp_1767840687927_kvzr7wz",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "testt",
+    "amount": 16000,
+    "currency": "VND",
+    "category": "HEALTHCARE",
+    "date": "2026-01-01T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:51:27.927Z",
+    "updatedAt": "2026-01-08T02:51:27.927Z"
+  },
+  {
+    "id": "exp_1767841017568_ab2tnku",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 700000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2025-12-08T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T02:56:57.568Z",
+    "updatedAt": "2026-01-08T02:56:57.568Z"
+  },
+  {
+    "id": "exp_1767841314623_h17xnib",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 100000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-08T03:01:27.193Z",
+    "tags": [],
+    "createdAt": "2026-01-08T03:01:54.623Z",
+    "updatedAt": "2026-01-08T03:01:54.623Z"
+  },
+  {
+    "id": "exp_1767841339750_nxlyzeb",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 200000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-05T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T03:02:19.750Z",
+    "updatedAt": "2026-01-08T03:02:19.750Z"
+  },
+  {
+    "id": "exp_1767841502871_qhpa8ii",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 100000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-07T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T03:05:02.871Z",
+    "updatedAt": "2026-01-08T03:05:02.871Z"
+  },
+  {
+    "id": "exp_1767842045479_e5t3cve",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 500000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2025-12-08T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T03:14:05.479Z",
+    "updatedAt": "2026-01-08T03:14:05.479Z"
+  },
+  {
+    "id": "exp_1767900911652_l72a37n",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test1",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T19:35:11.652Z",
+    "updatedAt": "2026-01-08T21:30:17.685Z"
+  },
+  {
+    "id": "exp_1767900961406_ux6xdsb",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 100000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T19:36:01.406Z",
+    "updatedAt": "2026-01-08T19:36:01.406Z"
+  },
+  {
+    "id": "exp_1767905085990_j2yxccs",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T20:44:45.990Z",
+    "updatedAt": "2026-01-08T20:44:45.990Z"
+  },
+  {
+    "id": "exp_1767905124007_snooqn5",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 100000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T20:45:24.007Z",
+    "updatedAt": "2026-01-08T20:45:24.007Z"
+  },
+  {
+    "id": "exp_1767905758378_qm8dk2h",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test1",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T20:55:58.378Z",
+    "updatedAt": "2026-01-08T20:55:58.378Z"
+  },
+  {
+    "id": "exp_1767906027878_7jso1qo",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test1",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "BILLS",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:00:27.878Z",
+    "updatedAt": "2026-01-08T21:00:27.878Z"
+  },
+  {
+    "id": "exp_1767906079969_hg5c1bm",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "ăn",
+    "amount": 14000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:01:19.969Z",
+    "updatedAt": "2026-01-08T21:01:19.969Z"
+  },
+  {
+    "id": "exp_1767906228781_g4avc86",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "testtt",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:03:48.781Z",
+    "updatedAt": "2026-01-08T21:03:48.781Z"
+  },
+  {
+    "id": "exp_1767906507601_dak1wc7",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:08:27.601Z",
+    "updatedAt": "2026-01-08T21:08:27.601Z"
+  },
+  {
+    "id": "exp_1767906531859_3fa5ccl",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "test",
+    "amount": 13000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:08:51.859Z",
+    "updatedAt": "2026-01-08T21:08:51.859Z"
+  },
+  {
+    "id": "exp_1767906622257_sxlyxho",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "ăn ",
+    "amount": 25000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:10:22.257Z",
+    "updatedAt": "2026-01-08T21:10:22.257Z"
+  },
+  {
+    "id": "exp_1767907639619_d7bs8o1",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "ăn",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:27:19.619Z",
+    "updatedAt": "2026-01-08T21:27:19.619Z"
+  },
+  {
+    "id": "exp_1767909392735_ivgimxa",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "ăn",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:56:32.735Z",
+    "updatedAt": "2026-01-08T21:56:32.735Z"
+  },
+  {
+    "id": "exp_1767909591819_18ofctp",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "lap",
+    "amount": 11000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T21:59:51.819Z",
+    "updatedAt": "2026-01-08T21:59:51.819Z"
+  },
+  {
+    "id": "exp_1767909770633_swrnb6k",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "pc",
+    "amount": 12000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-08T22:02:50.633Z",
+    "updatedAt": "2026-01-08T22:02:50.633Z"
+  }
+]
