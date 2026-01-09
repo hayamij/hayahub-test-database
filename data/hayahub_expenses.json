@@ -684,5 +684,17 @@
     "tags": [],
     "createdAt": "2026-01-09T22:53:12.592Z",
     "updatedAt": "2026-01-09T22:53:12.592Z"
+  },
+  {
+    "id": "exp_1767999269333_v6iiu9n",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "mua bàn phím GMK67",
+    "amount": 1700000,
+    "currency": "VND",
+    "category": "SHOPPING",
+    "date": "2025-01-09T22:53:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:54:29.333Z",
+    "updatedAt": "2026-01-09T22:54:29.333Z"
   }
 ]
