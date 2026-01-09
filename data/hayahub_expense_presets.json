@@ -1,0 +1,24 @@
+[
+  {
+    "id": "preset_1767915765988_u7si6em",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "bánh mì Khánh mập",
+    "createdAt": "2026-01-08T23:42:45.988Z",
+    "updatedAt": "2026-01-08T23:43:45.028Z"
+  },
+  {
+    "id": "preset_1767915851190_rw8gsvw",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-08T23:44:11.190Z",
+    "updatedAt": "2026-01-08T23:44:11.190Z"
+  }
+]
