@@ -496,5 +496,17 @@
     "tags": [],
     "createdAt": "2026-01-09T00:18:11.545Z",
     "updatedAt": "2026-01-09T00:18:11.545Z"
+  },
+  {
+    "id": "exp_1767919875387_v5rv1q9",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "top",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "OTHER",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T00:51:15.387Z",
+    "updatedAt": "2026-01-09T00:51:15.387Z"
   }
 ]
