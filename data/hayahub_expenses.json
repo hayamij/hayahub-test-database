@@ -524,5 +524,177 @@
     "tags": [],
     "createdAt": "2026-01-09T01:58:27.222Z",
     "updatedAt": "2026-01-09T01:58:27.222Z"
+  },
+  {
+    "id": "exp_1767999059054_a0gnh3c",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T22:50:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:50:59.054Z",
+    "updatedAt": "2026-01-09T22:50:59.054Z"
+  },
+  {
+    "id": "exp_1767999192576_feb5fms",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.576Z",
+    "updatedAt": "2026-01-09T22:53:12.576Z"
+  },
+  {
+    "id": "exp_1767999192589_88jon0j",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.589Z",
+    "updatedAt": "2026-01-09T22:53:12.589Z"
+  },
+  {
+    "id": "exp_1767999192589_af8jint",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.589Z",
+    "updatedAt": "2026-01-09T22:53:12.589Z"
+  },
+  {
+    "id": "exp_1767999192589_zscnxjz",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.589Z",
+    "updatedAt": "2026-01-09T22:53:12.589Z"
+  },
+  {
+    "id": "exp_1767999192590_eneziev",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.590Z",
+    "updatedAt": "2026-01-09T22:53:12.590Z"
+  },
+  {
+    "id": "exp_1767999192590_zh2d07n",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:53:12.590Z",
+    "updatedAt": "2026-01-09T22:53:12.590Z"
+  },
+  {
+    "id": "exp_1767999192590_496z8hj",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:53:12.590Z",
+    "updatedAt": "2026-01-09T22:53:12.590Z"
+  },
+  {
+    "id": "exp_1767999192591_xtm3mvc",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.591Z",
+    "updatedAt": "2026-01-09T22:53:12.591Z"
+  },
+  {
+    "id": "exp_1767999192591_p1qwdr4",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:53:12.591Z",
+    "updatedAt": "2026-01-09T22:53:12.591Z"
+  },
+  {
+    "id": "exp_1767999192591_hmrgi0w",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:53:12.591Z",
+    "updatedAt": "2026-01-09T22:53:12.591Z"
+  },
+  {
+    "id": "exp_1767999192592_sgvahfq",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2025-01-09T22:52:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:53:12.592Z",
+    "updatedAt": "2026-01-09T22:53:12.592Z"
+  },
+  {
+    "id": "exp_1767999269333_v6iiu9n",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "mua bàn phím GMK67",
+    "amount": 1700000,
+    "currency": "VND",
+    "category": "SHOPPING",
+    "date": "2025-01-09T22:53:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T22:54:29.333Z",
+    "updatedAt": "2026-01-09T22:54:29.333Z"
   }
 ]
