@@ -524,5 +524,19 @@
     "tags": [],
     "createdAt": "2026-01-09T01:58:27.222Z",
     "updatedAt": "2026-01-09T01:58:27.222Z"
+  },
+  {
+    "id": "exp_1767999059054_a0gnh3c",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T22:50:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T22:50:59.054Z",
+    "updatedAt": "2026-01-09T22:50:59.054Z"
   }
 ]
