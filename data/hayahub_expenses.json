@@ -512,5 +512,17 @@
     ],
     "createdAt": "2026-01-09T01:58:03.220Z",
     "updatedAt": "2026-01-09T01:58:03.220Z"
+  },
+  {
+    "id": "exp_1767923907222_awzqi8q",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cafe sữa",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T01:58:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T01:58:27.222Z",
+    "updatedAt": "2026-01-09T01:58:27.222Z"
   }
 ]
