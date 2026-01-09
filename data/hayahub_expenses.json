@@ -446,5 +446,55 @@
     "tags": [],
     "createdAt": "2026-01-09T00:05:49.895Z",
     "updatedAt": "2026-01-09T00:05:49.895Z"
+  },
+  {
+    "id": "exp_1767917891537_5jnrqn6",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [
+      "bánh mì Khánh mập"
+    ],
+    "createdAt": "2026-01-09T00:18:11.537Z",
+    "updatedAt": "2026-01-09T00:18:11.537Z"
+  },
+  {
+    "id": "exp_1767917891545_2bgecbg",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "nước mía",
+    "amount": 10000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T00:18:11.545Z",
+    "updatedAt": "2026-01-09T00:18:11.545Z"
+  },
+  {
+    "id": "exp_1767917891545_fkqqq26",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T00:18:11.545Z",
+    "updatedAt": "2026-01-09T00:18:11.545Z"
+  },
+  {
+    "id": "exp_1767917891545_09w2k24",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "mua giày",
+    "amount": 120000,
+    "currency": "VND",
+    "category": "SHOPPING",
+    "date": "2026-01-09T00:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-09T00:18:11.545Z",
+    "updatedAt": "2026-01-09T00:18:11.545Z"
   }
 ]
