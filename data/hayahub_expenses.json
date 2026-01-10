@@ -168,18 +168,6 @@
     "updatedAt": "2026-01-08T03:01:54.623Z"
   },
   {
-    "id": "exp_1767841339750_nxlyzeb",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "test",
-    "amount": 200000,
-    "currency": "VND",
-    "category": "OTHER",
-    "date": "2026-01-05T00:00:00.000Z",
-    "tags": [],
-    "createdAt": "2026-01-08T03:02:19.750Z",
-    "updatedAt": "2026-01-08T03:02:19.750Z"
-  },
-  {
     "id": "exp_1767841502871_qhpa8ii",
     "userId": "usr_1767825506370_0v10k3s",
     "description": "test",
