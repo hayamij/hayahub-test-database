@@ -75,5 +75,16 @@
     "notes": "",
     "createdAt": "2026-01-13T01:57:06.571Z",
     "updatedAt": "2026-01-13T01:57:06.571Z"
+  },
+  {
+    "id": "preset_1768269446989_qjvcus0",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:57:26.989Z",
+    "updatedAt": "2026-01-13T01:57:26.989Z"
   }
 ]
