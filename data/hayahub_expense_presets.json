@@ -20,5 +20,16 @@
     "notes": "",
     "createdAt": "2026-01-08T23:44:11.190Z",
     "updatedAt": "2026-01-08T23:44:11.190Z"
+  },
+  {
+    "id": "preset_1768269269286_0325v04",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "cafe sữa",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "OTHER",
+    "notes": "",
+    "createdAt": "2026-01-13T01:54:29.286Z",
+    "updatedAt": "2026-01-13T01:54:29.286Z"
   }
 ]
