@@ -64,5 +64,16 @@
     "notes": "xe Thành Công",
     "createdAt": "2026-01-13T01:56:44.817Z",
     "updatedAt": "2026-01-13T01:56:44.817Z"
+  },
+  {
+    "id": "preset_1768269426571_ynlxerb",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "notes": "",
+    "createdAt": "2026-01-13T01:57:06.571Z",
+    "updatedAt": "2026-01-13T01:57:06.571Z"
   }
 ]
