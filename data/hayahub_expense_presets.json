@@ -53,5 +53,16 @@
     "notes": "",
     "createdAt": "2026-01-13T01:55:48.262Z",
     "updatedAt": "2026-01-13T01:55:48.262Z"
+  },
+  {
+    "id": "preset_1768269404817_mfukyia",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "vé xe BP-HCM",
+    "amount": 130000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "notes": "xe Thành Công",
+    "createdAt": "2026-01-13T01:56:44.817Z",
+    "updatedAt": "2026-01-13T01:56:44.817Z"
   }
 ]
