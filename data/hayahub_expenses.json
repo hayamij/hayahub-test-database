@@ -700,46 +700,6 @@
     "updatedAt": "2026-01-12T04:46:23.466Z"
   },
   {
-    "id": "exp_1768249863021_mi3foze",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "bánh mì",
-    "amount": 15000,
-    "currency": "VND",
-    "category": "FOOD",
-    "date": "2026-01-11T20:30:00.000Z",
-    "tags": [
-      "bánh mì Khánh mập"
-    ],
-    "createdAt": "2026-01-12T20:31:03.021Z",
-    "updatedAt": "2026-01-12T20:31:03.021Z"
-  },
-  {
-    "id": "exp_1768249863024_gu47kdg",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "bánh mì",
-    "amount": 15000,
-    "currency": "VND",
-    "category": "FOOD",
-    "date": "2026-01-11T20:30:00.000Z",
-    "tags": [
-      "bánh mì Khánh mập"
-    ],
-    "createdAt": "2026-01-12T20:31:03.024Z",
-    "updatedAt": "2026-01-12T20:31:03.024Z"
-  },
-  {
-    "id": "exp_1768249863025_90h80n1",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "nước mía",
-    "amount": 10000,
-    "currency": "VND",
-    "category": "FOOD",
-    "date": "2026-01-11T20:30:00.000Z",
-    "tags": [],
-    "createdAt": "2026-01-12T20:31:03.025Z",
-    "updatedAt": "2026-01-12T20:31:03.025Z"
-  },
-  {
     "id": "exp_1768269362143_8wus2rc",
     "userId": "usr_1767825506370_0v10k3s",
     "description": "bánh mì trứng",
