@@ -42,5 +42,16 @@
     "notes": "",
     "createdAt": "2026-01-13T01:55:38.304Z",
     "updatedAt": "2026-01-13T01:55:38.304Z"
+  },
+  {
+    "id": "preset_1768269348262_tkvzg7v",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:55:48.262Z",
+    "updatedAt": "2026-01-13T01:55:48.262Z"
   }
 ]
