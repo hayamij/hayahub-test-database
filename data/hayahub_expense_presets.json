@@ -11,17 +11,6 @@
     "updatedAt": "2026-01-13T01:54:37.433Z"
   },
   {
-    "id": "preset_1767915851190_rw8gsvw",
-    "userId": "usr_1767825506370_0v10k3s",
-    "name": "nước mía",
-    "amount": 10000,
-    "currency": "VND",
-    "category": "FOOD",
-    "notes": "",
-    "createdAt": "2026-01-08T23:44:11.190Z",
-    "updatedAt": "2026-01-08T23:44:11.190Z"
-  },
-  {
     "id": "preset_1768269269286_0325v04",
     "userId": "usr_1767825506370_0v10k3s",
     "name": "cafe sữa",
