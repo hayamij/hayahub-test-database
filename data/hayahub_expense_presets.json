@@ -31,5 +31,16 @@
     "notes": "",
     "createdAt": "2026-01-13T01:54:59.285Z",
     "updatedAt": "2026-01-13T01:54:59.285Z"
+  },
+  {
+    "id": "preset_1768269338304_xr16xg4",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:55:38.304Z",
+    "updatedAt": "2026-01-13T01:55:38.304Z"
   }
 ]
