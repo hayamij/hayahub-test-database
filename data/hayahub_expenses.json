@@ -798,5 +798,19 @@
     "tags": [],
     "createdAt": "2026-01-13T01:57:45.841Z",
     "updatedAt": "2026-01-13T01:57:45.841Z"
+  },
+  {
+    "id": "exp_1768398870555_ghjzcg8",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-14T13:54:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-01-14T13:54:30.555Z",
+    "updatedAt": "2026-01-14T13:54:30.555Z"
   }
 ]
