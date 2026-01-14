@@ -6,19 +6,85 @@
     "amount": 15000,
     "currency": "VND",
     "category": "FOOD",
-    "notes": "bánh mì Khánh mập",
+    "notes": "bánh mì 2 trứng",
     "createdAt": "2026-01-08T23:42:45.988Z",
-    "updatedAt": "2026-01-08T23:43:45.028Z"
+    "updatedAt": "2026-01-13T01:54:37.433Z"
   },
   {
-    "id": "preset_1767915851190_rw8gsvw",
+    "id": "preset_1768269269286_0325v04",
     "userId": "usr_1767825506370_0v10k3s",
-    "name": "nước mía",
-    "amount": 10000,
+    "name": "cafe sữa",
+    "amount": 15000,
     "currency": "VND",
     "category": "FOOD",
     "notes": "",
-    "createdAt": "2026-01-08T23:44:11.190Z",
-    "updatedAt": "2026-01-08T23:44:11.190Z"
+    "createdAt": "2026-01-13T01:54:29.286Z",
+    "updatedAt": "2026-01-13T01:55:14.380Z"
+  },
+  {
+    "id": "preset_1768269299285_x5m3irn",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bánh mì trứng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:54:59.285Z",
+    "updatedAt": "2026-01-13T01:54:59.285Z"
+  },
+  {
+    "id": "preset_1768269338304_xr16xg4",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:55:38.304Z",
+    "updatedAt": "2026-01-13T01:55:38.304Z"
+  },
+  {
+    "id": "preset_1768269348262_tkvzg7v",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:55:48.262Z",
+    "updatedAt": "2026-01-13T01:55:48.262Z"
+  },
+  {
+    "id": "preset_1768269404817_mfukyia",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "vé xe BP-HCM",
+    "amount": 130000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "notes": "xe Thành Công",
+    "createdAt": "2026-01-13T01:56:44.817Z",
+    "updatedAt": "2026-01-13T01:56:44.817Z"
+  },
+  {
+    "id": "preset_1768269426571_ynlxerb",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "notes": "",
+    "createdAt": "2026-01-13T01:57:06.571Z",
+    "updatedAt": "2026-01-13T01:57:06.571Z"
+  },
+  {
+    "id": "preset_1768269446989_qjvcus0",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "notes": "",
+    "createdAt": "2026-01-13T01:57:26.989Z",
+    "updatedAt": "2026-01-13T01:57:26.989Z"
   }
 ]
