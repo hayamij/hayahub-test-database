@@ -850,5 +850,53 @@
     "tags": [],
     "createdAt": "2026-01-14T15:02:47.243Z",
     "updatedAt": "2026-01-14T15:02:47.243Z"
+  },
+  {
+    "id": "exp_1768914047164_sr8nm2z",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-20T13:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-20T13:00:47.164Z",
+    "updatedAt": "2026-01-20T13:00:47.164Z"
+  },
+  {
+    "id": "exp_1768914047169_kens06f",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-20T13:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-20T13:00:47.169Z",
+    "updatedAt": "2026-01-20T13:00:47.169Z"
+  },
+  {
+    "id": "exp_1768914047169_gqyf2kw",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-20T13:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-20T13:00:47.169Z",
+    "updatedAt": "2026-01-20T13:00:47.169Z"
+  },
+  {
+    "id": "exp_1768914047170_tdm5rer",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cafe sữa",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-20T13:00:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-20T13:00:47.170Z",
+    "updatedAt": "2026-01-20T13:00:47.170Z"
   }
 ]
