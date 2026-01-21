@@ -898,5 +898,105 @@
     "tags": [],
     "createdAt": "2026-01-20T13:00:47.170Z",
     "updatedAt": "2026-01-20T13:00:47.170Z"
+  },
+  {
+    "id": "exp_1768971063762_rg8hdh7",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cafe sữa",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.762Z",
+    "updatedAt": "2026-01-21T04:51:03.762Z"
+  },
+  {
+    "id": "exp_1768971063766_z1kd2na",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-01-21T04:51:03.766Z",
+    "updatedAt": "2026-01-21T04:51:03.766Z"
+  },
+  {
+    "id": "exp_1768971063767_bke6uoj",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.767Z",
+    "updatedAt": "2026-01-21T04:51:03.767Z"
+  },
+  {
+    "id": "exp_1768971063767_ww88hhj",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.767Z",
+    "updatedAt": "2026-01-21T04:51:03.767Z"
+  },
+  {
+    "id": "exp_1768971063768_1latmgl",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.768Z",
+    "updatedAt": "2026-01-21T04:51:03.768Z"
+  },
+  {
+    "id": "exp_1768971063768_w9hzumb",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "vé xe BP-HCM",
+    "amount": 130000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [
+      "xe Thành Công"
+    ],
+    "createdAt": "2026-01-21T04:51:03.768Z",
+    "updatedAt": "2026-01-21T04:51:03.768Z"
+  },
+  {
+    "id": "exp_1768971063770_rnpkj30",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì trứng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.770Z",
+    "updatedAt": "2026-01-21T04:51:03.770Z"
+  },
+  {
+    "id": "exp_1768971063770_6k0e0r3",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-01-21T04:50:00.000Z",
+    "tags": [],
+    "createdAt": "2026-01-21T04:51:03.770Z",
+    "updatedAt": "2026-01-21T04:51:03.770Z"
   }
 ]
