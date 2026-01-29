@@ -19,11 +19,11 @@
     "amount": 231000,
     "currency": "VND",
     "frequency": "MONTHLY",
-    "status": "PAUSED",
+    "status": "ACTIVE",
     "startDate": "2026-01-29T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T00:00:00.000Z",
     "createdAt": "2026-01-29T13:35:47.104Z",
-    "updatedAt": "2026-01-29T13:36:15.177Z"
+    "updatedAt": "2026-01-29T14:06:08.592Z"
   },
   {
     "id": "sub_1769693764977_es5gb4e",
