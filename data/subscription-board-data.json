@@ -6,8 +6,8 @@
       "y": 4,
       "w": 6,
       "h": 2,
-      "minW": 1,
-      "minH": 1
+      "minW": 2,
+      "minH": 2
     },
     {
       "i": "sub_1769703563769_5whhqf2",
@@ -15,8 +15,8 @@
       "y": 0,
       "w": 4,
       "h": 4,
-      "minW": 1,
-      "minH": 1
+      "minW": 2,
+      "minH": 2
     }
   ],
   "customization": {}
