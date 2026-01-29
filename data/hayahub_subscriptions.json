@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sub_1769691584555_tovktvi",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Spotify",
+    "amount": 33000,
+    "currency": "VND",
+    "frequency": "MONTHLY",
+    "status": "ACTIVE",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T00:00:00.000Z",
+    "createdAt": "2026-01-29T12:59:44.555Z",
+    "updatedAt": "2026-01-29T12:59:44.555Z"
+  }
+]
