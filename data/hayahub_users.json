@@ -33,5 +33,14 @@
     "role": "USER",
     "createdAt": "2026-01-07T22:38:26.370Z",
     "updatedAt": "2026-01-09T22:51:41.605Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp",
+    "email": "truonggiang190689@gmail.com",
+    "name": "Axyl",
+    "password": "MTIzNDU2",
+    "role": "USER",
+    "createdAt": "2026-01-29T16:13:12.664Z",
+    "updatedAt": "2026-01-29T16:13:12.664Z"
   }
 ]
