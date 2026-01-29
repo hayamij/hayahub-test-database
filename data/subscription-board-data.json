@@ -6,8 +6,8 @@
       "y": 0,
       "w": 7,
       "h": 3,
-      "minW": 7,
-      "minH": 3
+      "minW": 0,
+      "minH": null
     },
     {
       "i": "sub_1769693747104_ydk4m3p",
@@ -15,8 +15,8 @@
       "y": 3,
       "w": 6,
       "h": 3,
-      "minW": 7,
-      "minH": 3
+      "minW": 0,
+      "minH": null
     },
     {
       "i": "sub_1769693764977_es5gb4e",
@@ -24,8 +24,8 @@
       "y": 6,
       "w": 6,
       "h": 3,
-      "minW": 7,
-      "minH": 3
+      "minW": 0,
+      "minH": null
     }
   ],
   "customization": {
