@@ -28,5 +28,10 @@
       "minH": 0
     }
   ],
-  "customization": {}
+  "customization": {
+    "sub_1769691584555_tovktvi": {
+      "icon": "spotify",
+      "color": "#1DB954"
+    }
+  }
 }
