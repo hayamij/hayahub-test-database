@@ -11,7 +11,7 @@
     },
     {
       "i": "sub_1769703563769_5whhqf2",
-      "x": 7,
+      "x": 6,
       "y": 0,
       "w": 4,
       "h": 4,
@@ -19,5 +19,10 @@
       "minH": 2
     }
   ],
-  "customization": {}
+  "customization": {
+    "sub_1769703563769_5whhqf2": {
+      "icon": "figma",
+      "color": "#F24E1E"
+    }
+  }
 }
