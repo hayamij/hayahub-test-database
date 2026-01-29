@@ -1,0 +1,28 @@
+{
+  "layout": [
+    {
+      "i": "sub_1769703215471_ptllvin",
+      "x": 7,
+      "y": 0,
+      "w": 5,
+      "h": 2,
+      "minW": 1,
+      "minH": 1
+    },
+    {
+      "i": "sub_1769703563769_5whhqf2",
+      "x": 2,
+      "y": 0,
+      "w": 3,
+      "h": 1,
+      "minW": 1,
+      "minH": 1
+    }
+  ],
+  "customization": {
+    "sub_1769703563769_5whhqf2": {
+      "icon": "figma",
+      "color": "#F24E1E"
+    }
+  }
+}
