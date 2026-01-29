@@ -4,42 +4,29 @@
       "i": "sub_1769691584555_tovktvi",
       "x": 0,
       "y": 0,
-      "w": 6,
-      "h": 3,
+      "w": 1,
+      "h": 1,
       "minW": 1,
       "minH": 1
     },
     {
       "i": "sub_1769693747104_ydk4m3p",
-      "x": 6,
-      "y": 3,
-      "w": 6,
-      "h": 3,
+      "x": 0,
+      "y": 1,
+      "w": 1,
+      "h": 1,
       "minW": 1,
       "minH": 1
     },
     {
       "i": "sub_1769693764977_es5gb4e",
-      "x": 6,
-      "y": 0,
-      "w": 6,
-      "h": 3,
+      "x": 0,
+      "y": 2,
+      "w": 1,
+      "h": 1,
       "minW": 1,
       "minH": 1
     }
   ],
-  "customization": {
-    "sub_1769691584555_tovktvi": {
-      "icon": "spotify",
-      "color": "#1DB954"
-    },
-    "sub_1769693747104_ydk4m3p": {
-      "icon": "netflix",
-      "color": "#E50914"
-    },
-    "sub_1769693764977_es5gb4e": {
-      "icon": "youtube",
-      "color": "#FF0000"
-    }
-  }
+  "customization": {}
 }
