@@ -4,25 +4,20 @@
       "i": "sub_1769703215471_ptllvin",
       "x": 0,
       "y": 0,
-      "w": 5,
-      "h": 2,
+      "w": 1,
+      "h": 1,
       "minW": 1,
       "minH": 1
     },
     {
       "i": "sub_1769703563769_5whhqf2",
-      "x": 6,
-      "y": 0,
-      "w": 6,
-      "h": 3,
+      "x": 0,
+      "y": 1,
+      "w": 1,
+      "h": 1,
       "minW": 1,
       "minH": 1
     }
   ],
-  "customization": {
-    "sub_1769703563769_5whhqf2": {
-      "icon": "figma",
-      "color": "#F24E1E"
-    }
-  }
+  "customization": {}
 }
