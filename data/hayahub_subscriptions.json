@@ -29,15 +29,15 @@
     "layoutPosition": {
       "x": 425,
       "y": 46,
-      "w": 300,
-      "h": 180
+      "w": 332,
+      "h": 239
     },
     "frequency": "MONTHLY",
     "status": "ACTIVE",
     "startDate": "2026-01-29T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T07:02:29.371Z",
     "createdAt": "2026-01-29T13:35:47.104Z",
-    "updatedAt": "2026-02-01T07:02:30.554Z"
+    "updatedAt": "2026-02-01T07:02:38.752Z"
   },
   {
     "id": "sub_1769693764977_es5gb4e",
