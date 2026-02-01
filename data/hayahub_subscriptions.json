@@ -7,17 +7,17 @@
     "currency": "VND",
     "icon": "💳",
     "layoutPosition": {
-      "x": 39,
-      "y": 86,
-      "w": 300,
-      "h": 180
+      "x": 30,
+      "y": 51,
+      "w": 250,
+      "h": 239
     },
     "frequency": "YEARLY",
     "status": "PAUSED",
     "startDate": "2026-01-29T00:00:00.000Z",
     "nextBillingDate": "2027-02-01T06:59:17.201Z",
     "createdAt": "2026-01-29T12:59:44.555Z",
-    "updatedAt": "2026-02-01T07:02:03.091Z"
+    "updatedAt": "2026-02-01T07:02:11.143Z"
   },
   {
     "id": "sub_1769693747104_ydk4m3p",
