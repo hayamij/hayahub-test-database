@@ -2096,5 +2096,532 @@
     "nextBillingDate": "2026-03-01T14:34:00.184Z",
     "createdAt": "2026-01-29T13:36:04.977Z",
     "updatedAt": "2026-02-01T06:58:21.766Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 838,
+      "y": 83,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.194Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1001,
+      "y": 103,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.277Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1018,
+      "y": 103,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.281Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1134,
+      "y": 104,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.336Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1151,
+      "y": 104,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.340Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1350,
+      "y": 93,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.439Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1363,
+      "y": 93,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.444Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1428,
+      "y": 89,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.496Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1465,
+      "y": 87,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.608Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1466,
+      "y": 87,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.612Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1469,
+      "y": 87,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.675Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1488,
+      "y": 87,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.909Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1494,
+      "y": 88,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:22.964Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1484,
+      "y": 167,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.114Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1480,
+      "y": 181,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.119Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1429,
+      "y": 266,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.180Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1353,
+      "y": 341,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.278Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1349,
+      "y": 344,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.285Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1290,
+      "y": 374,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.352Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1204,
+      "y": 413,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.468Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1199,
+      "y": 413,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.472Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1195,
+      "y": 414,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.479Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1144,
+      "y": 422,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.625Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1141,
+      "y": 422,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.630Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1123,
+      "y": 421,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.687Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1119,
+      "y": 419,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.690Z"
+  },
+  {
+    "id": "sub_1769693764977_es5gb4e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Youtube Premium",
+    "amount": 79000,
+    "currency": "VND",
+    "layoutPosition": {
+      "x": 1015,
+      "y": 353,
+      "w": 300,
+      "h": 180
+    },
+    "frequency": "MONTHLY",
+    "status": "CANCELLED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2026-03-01T14:34:00.184Z",
+    "createdAt": "2026-01-29T13:36:04.977Z",
+    "updatedAt": "2026-02-01T06:58:23.927Z"
+  },
+  {
+    "id": "sub_1769691584555_tovktvi",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Spotify",
+    "amount": 33000,
+    "currency": "VND",
+    "icon": "💳",
+    "frequency": "YEARLY",
+    "status": "PAUSED",
+    "startDate": "2026-01-29T00:00:00.000Z",
+    "nextBillingDate": "2027-02-01T06:59:17.201Z",
+    "createdAt": "2026-01-29T12:59:44.555Z",
+    "updatedAt": "2026-02-01T06:59:17.201Z"
   }
 ]
