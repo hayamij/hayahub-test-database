@@ -5,7 +5,7 @@
     "name": "Spotify",
     "amount": 33000,
     "currency": "VND",
-    "icon": "💳",
+    "icon": "🎵",
     "layoutPosition": {
       "x": 30,
       "y": 51,
@@ -15,9 +15,9 @@
     "frequency": "YEARLY",
     "status": "PAUSED",
     "startDate": "2026-01-29T00:00:00.000Z",
-    "nextBillingDate": "2027-02-01T06:59:17.201Z",
+    "nextBillingDate": "2027-02-01T07:02:24.056Z",
     "createdAt": "2026-01-29T12:59:44.555Z",
-    "updatedAt": "2026-02-01T07:02:16.691Z"
+    "updatedAt": "2026-02-01T07:02:24.056Z"
   },
   {
     "id": "sub_1769693747104_ydk4m3p",
