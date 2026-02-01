@@ -92,11 +92,17 @@
     "amount": 500000,
     "currency": "VND",
     "icon": "💳",
+    "layoutPosition": {
+      "x": 699,
+      "y": 132,
+      "w": 300,
+      "h": 180
+    },
     "frequency": "MONTHLY",
     "status": "ACTIVE",
     "startDate": "2026-02-01T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T00:00:00.000Z",
     "createdAt": "2026-02-01T07:03:07.240Z",
-    "updatedAt": "2026-02-01T07:03:07.240Z"
+    "updatedAt": "2026-02-01T07:03:09.621Z"
   }
 ]
