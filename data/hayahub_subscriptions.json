@@ -93,16 +93,16 @@
     "currency": "VND",
     "icon": "📱",
     "layoutPosition": {
-      "x": 668,
-      "y": 59,
-      "w": 373,
-      "h": 199
+      "x": 667,
+      "y": 54,
+      "w": 601,
+      "h": 233
     },
     "frequency": "MONTHLY",
     "status": "ACTIVE",
     "startDate": "2026-02-01T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T07:03:16.319Z",
     "createdAt": "2026-02-01T07:03:07.240Z",
-    "updatedAt": "2026-02-01T07:03:20.252Z"
+    "updatedAt": "2026-02-01T07:03:23.468Z"
   }
 ]
