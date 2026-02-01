@@ -11,18 +11,5 @@
     "reminders": [],
     "createdAt": "2026-02-01T09:29:10.257Z",
     "updatedAt": "2026-02-01T13:10:52.264Z"
-  },
-  {
-    "id": "cal_1769938188721_0e28rmn",
-    "userId": "usr_1767825506370_0v10k3s",
-    "title": "Đi học",
-    "description": "",
-    "startDate": "2026-02-01T02:00:00.000Z",
-    "endDate": "2026-02-03T03:00:00.000Z",
-    "priority": "MEDIUM",
-    "isAllDay": true,
-    "reminders": [],
-    "createdAt": "2026-02-01T09:29:48.721Z",
-    "updatedAt": "2026-02-01T13:11:21.864Z"
   }
 ]
