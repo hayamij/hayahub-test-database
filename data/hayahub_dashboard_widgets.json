@@ -59,15 +59,15 @@
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
     "userId": "usr_1767825506370_0v10k3s",
     "type": "QUOTE",
-    "isVisible": true,
+    "isVisible": false,
     "layoutPosition": {
-      "x": 428,
-      "y": 391,
+      "x": 429,
+      "y": 392,
       "w": 311,
       "h": 394
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:58.699Z"
+    "updatedAt": "2026-02-02T18:01:25.035Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
