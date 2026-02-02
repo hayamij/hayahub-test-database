@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 840,
-      "y": 20,
-      "w": 360,
-      "h": 320
+      "x": 843,
+      "y": 23,
+      "w": 356,
+      "h": 41
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T17:54:45.778Z"
+    "updatedAt": "2026-02-02T17:54:58.797Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
