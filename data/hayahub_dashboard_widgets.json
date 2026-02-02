@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 324,
-      "y": 695,
-      "w": 376,
-      "h": 41
+      "x": 325,
+      "y": 631,
+      "w": 464,
+      "h": 237
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:30.249Z"
+    "updatedAt": "2026-02-02T18:00:32.171Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
