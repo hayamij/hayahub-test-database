@@ -30,12 +30,12 @@
     "userId": "usr_1767825506370_0v10k3s",
     "title": "b",
     "description": "",
-    "priority": "MEDIUM",
+    "priority": "HIGH",
     "completed": false,
     "projectId": null,
     "dueDate": null,
     "completedAt": null,
     "createdAt": "2026-02-02T17:19:02.459Z",
-    "updatedAt": "2026-02-02T17:19:02.459Z"
+    "updatedAt": "2026-02-02T17:19:11.096Z"
   }
 ]
