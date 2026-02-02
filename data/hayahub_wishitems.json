@@ -6,11 +6,11 @@
     "description": "",
     "estimatedPrice": 35000000,
     "currency": "VND",
-    "priority": 4,
+    "priority": 5,
     "url": "https://facebook.com",
     "purchased": false,
     "purchasedAt": null,
     "createdAt": "2026-02-02T16:25:18.691Z",
-    "updatedAt": "2026-02-02T16:25:18.691Z"
+    "updatedAt": "2026-02-02T16:25:31.285Z"
   }
 ]
