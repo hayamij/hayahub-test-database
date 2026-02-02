@@ -5,11 +5,11 @@
     "title": "Thiết kế UI",
     "description": "",
     "priority": "MEDIUM",
-    "completed": false,
+    "completed": true,
     "projectId": null,
     "dueDate": "2026-02-02T00:00:00.000Z",
-    "completedAt": null,
+    "completedAt": "2026-02-02T16:24:49.021Z",
     "createdAt": "2026-02-02T16:24:17.376Z",
-    "updatedAt": "2026-02-02T16:24:17.376Z"
+    "updatedAt": "2026-02-02T16:24:49.021Z"
   }
 ]
