@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 4,
-      "y": 12,
-      "w": 644,
+      "x": 5,
+      "y": 13,
+      "w": 623,
       "h": 420
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:20.168Z"
+    "updatedAt": "2026-02-02T18:19:27.016Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 9,
-      "y": 327,
+      "x": 32,
+      "y": 515,
       "w": 388,
       "h": 368
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:38.182Z"
+    "updatedAt": "2026-02-02T18:19:21.876Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
