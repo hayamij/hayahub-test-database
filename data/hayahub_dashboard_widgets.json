@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 20,
-      "y": 60,
+      "x": 749,
+      "y": 380,
       "w": 602,
       "h": 325
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:43:41.222Z"
+    "updatedAt": "2026-02-02T19:43:50.557Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
