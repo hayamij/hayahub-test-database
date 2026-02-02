@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 5,
+      "x": 4,
       "y": 13,
       "w": 623,
       "h": 420
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:27.016Z"
+    "updatedAt": "2026-02-02T18:22:42.776Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -53,7 +53,7 @@
       "h": 272
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:22:38.011Z"
+    "updatedAt": "2026-02-02T18:22:39.796Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
