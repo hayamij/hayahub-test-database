@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 20,
-      "y": 390,
+      "x": 370,
+      "y": 644,
       "w": 607,
       "h": 232
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:43:41.222Z"
+    "updatedAt": "2026-02-02T19:43:47.865Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 963,
-      "y": 531,
+      "x": 62,
+      "y": 418,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:43:41.222Z"
+    "updatedAt": "2026-02-02T19:43:48.686Z"
   }
 ]
