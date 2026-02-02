@@ -1,0 +1,16 @@
+[
+  {
+    "id": "wsh_1770049518691_k0sl06t",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Sony a74",
+    "description": "",
+    "estimatedPrice": 35000000,
+    "currency": "VND",
+    "priority": 5,
+    "url": "https://facebook.com",
+    "purchased": true,
+    "purchasedAt": "2026-02-02T16:25:34.280Z",
+    "createdAt": "2026-02-02T16:25:18.691Z",
+    "updatedAt": "2026-02-02T16:25:34.280Z"
+  }
+]

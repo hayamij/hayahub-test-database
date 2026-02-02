@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cal_1769938150257_i75insp",
+    "userId": "usr_1767825506370_0v10k3s",
+    "title": "Đi học",
+    "description": "",
+    "startDate": "2026-01-02T02:00:00.000Z",
+    "endDate": "2026-03-02T03:00:00.000Z",
+    "priority": "MEDIUM",
+    "isAllDay": true,
+    "reminders": [],
+    "createdAt": "2026-02-01T09:29:10.257Z",
+    "updatedAt": "2026-02-01T13:10:52.264Z"
+  },
+  {
+    "id": "cal_1769951548998_z16elcr",
+    "userId": "usr_1767825506370_0v10k3s",
+    "title": "test",
+    "description": "",
+    "startDate": "2026-02-01T02:00:00.000Z",
+    "endDate": "2026-02-01T03:00:00.000Z",
+    "priority": "MEDIUM",
+    "isAllDay": false,
+    "reminders": [],
+    "createdAt": "2026-02-01T13:12:28.998Z",
+    "updatedAt": "2026-02-01T13:12:28.998Z"
+  },
+  {
+    "id": "cal_1769951551926_13sm51e",
+    "userId": "usr_1767825506370_0v10k3s",
+    "title": "test",
+    "description": "",
+    "startDate": "2026-02-01T02:00:00.000Z",
+    "endDate": "2026-02-01T03:00:00.000Z",
+    "priority": "MEDIUM",
+    "isAllDay": false,
+    "reminders": [],
+    "createdAt": "2026-02-01T13:12:31.926Z",
+    "updatedAt": "2026-02-01T13:12:31.926Z"
+  },
+  {
+    "id": "cal_1769951565438_3m6ogn6",
+    "userId": "usr_1767825506370_0v10k3s",
+    "title": "test",
+    "description": "",
+    "startDate": "2026-02-10T02:00:00.000Z",
+    "endDate": "2026-02-10T04:00:00.000Z",
+    "priority": "MEDIUM",
+    "isAllDay": false,
+    "reminders": [],
+    "createdAt": "2026-02-01T13:12:45.438Z",
+    "updatedAt": "2026-02-01T13:13:11.532Z"
+  }
+]
