@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 823,
-      "y": 363,
-      "w": 376,
-      "h": 41
+      "x": 824,
+      "y": 364,
+      "w": 629,
+      "h": 200
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T17:55:21.204Z"
+    "updatedAt": "2026-02-02T17:55:24.780Z"
   }
 ]
