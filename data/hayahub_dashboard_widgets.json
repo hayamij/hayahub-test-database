@@ -59,7 +59,7 @@
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
     "userId": "usr_1767825506370_0v10k3s",
     "type": "QUOTE",
-    "isVisible": false,
+    "isVisible": true,
     "layoutPosition": {
       "x": 429,
       "y": 392,
@@ -67,7 +67,7 @@
       "h": 394
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:01:25.035Z"
+    "updatedAt": "2026-02-02T18:19:32.558Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -81,6 +81,6 @@
       "h": 205
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:29.149Z"
+    "updatedAt": "2026-02-02T18:19:29.960Z"
   }
 ]
