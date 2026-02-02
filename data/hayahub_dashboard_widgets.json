@@ -1,0 +1,86 @@
+[
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-SPENDING-1770054885778-0",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "SPENDING",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 20,
+      "w": 400,
+      "h": 280
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "CALENDAR",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 440,
+      "y": 20,
+      "w": 380,
+      "h": 320
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "PROJECTS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 320,
+      "w": 380,
+      "h": 300
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "WISHLIST",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 840,
+      "y": 20,
+      "w": 360,
+      "h": 320
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "QUOTE",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 420,
+      "y": 360,
+      "w": 380,
+      "h": 260
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "SUBSCRIPTIONS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 820,
+      "y": 360,
+      "w": 380,
+      "h": 260
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T17:54:45.778Z"
+  }
+]
