@@ -11,7 +11,7 @@
       "h": 507
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:53.483Z"
+    "updatedAt": "2026-02-02T19:45:56.889Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -21,11 +21,11 @@
     "layoutPosition": {
       "x": 799,
       "y": 61,
-      "w": 328,
-      "h": 495
+      "w": 330,
+      "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:55.888Z"
+    "updatedAt": "2026-02-02T19:46:01.148Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1132,
+      "x": 1131,
       "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:53.483Z"
+    "updatedAt": "2026-02-02T19:45:56.889Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -53,7 +53,7 @@
       "h": 255
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:53.483Z"
+    "updatedAt": "2026-02-02T19:45:56.889Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -62,12 +62,12 @@
     "isVisible": true,
     "layoutPosition": {
       "x": 798,
-      "y": 573,
+      "y": 560,
       "w": 326,
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:53.483Z"
+    "updatedAt": "2026-02-02T19:45:56.889Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1132,
+      "x": 1131,
       "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:53.483Z"
+    "updatedAt": "2026-02-02T19:45:56.889Z"
   }
 ]
