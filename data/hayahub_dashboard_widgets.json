@@ -11,13 +11,13 @@
       "h": 535
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:25.585Z"
+    "updatedAt": "2026-02-02T19:45:30.358Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
     "userId": "usr_1767825506370_0v10k3s",
     "type": "CALENDAR",
-    "isVisible": false,
+    "isVisible": true,
     "layoutPosition": {
       "x": 799,
       "y": 61,
@@ -25,7 +25,7 @@
       "h": 524
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:29.374Z"
+    "updatedAt": "2026-02-02T19:45:34.598Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1133,
+      "x": 798,
       "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:25.585Z"
+    "updatedAt": "2026-02-02T19:45:30.358Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 20,
-      "y": 600,
+      "x": 1213,
+      "y": 60,
       "w": 631,
       "h": 255
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:25.585Z"
+    "updatedAt": "2026-02-02T19:45:30.358Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 798,
-      "y": 589,
+      "x": 20,
+      "y": 600,
       "w": 326,
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:25.585Z"
+    "updatedAt": "2026-02-02T19:45:30.358Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1133,
+      "x": 798,
       "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:45:25.585Z"
+    "updatedAt": "2026-02-02T19:45:30.358Z"
   }
 ]
