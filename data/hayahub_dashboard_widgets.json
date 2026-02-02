@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1114,
-      "y": 22,
+      "x": 650,
+      "y": 20,
       "w": 457,
       "h": 397
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:17.228Z"
+    "updatedAt": "2026-02-02T18:19:37.649Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1044,
-      "y": 16,
+      "x": 1128,
+      "y": 19,
       "w": 388,
       "h": 368
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:35.922Z"
+    "updatedAt": "2026-02-02T18:19:39.400Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
