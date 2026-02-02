@@ -998,5 +998,43 @@
     "tags": [],
     "createdAt": "2026-01-21T04:51:03.770Z",
     "updatedAt": "2026-01-21T04:51:03.770Z"
+  },
+  {
+    "id": "exp_1770053441046_vwdn6in",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-02T17:30:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-02T17:30:41.046Z",
+    "updatedAt": "2026-02-02T17:30:41.046Z"
+  },
+  {
+    "id": "exp_1770053441058_jekxe6i",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-02T17:30:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-02T17:30:41.058Z",
+    "updatedAt": "2026-02-02T17:30:41.058Z"
+  },
+  {
+    "id": "exp_1770053441059_h1s95fi",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-02T17:30:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-02T17:30:41.059Z",
+    "updatedAt": "2026-02-02T17:30:41.059Z"
   }
 ]
