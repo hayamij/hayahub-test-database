@@ -1,0 +1,86 @@
+[
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-SPENDING-1770054885778-0",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "SPENDING",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 60,
+      "w": 756,
+      "h": 591
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "CALENDAR",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 781,
+      "y": 60,
+      "w": 330,
+      "h": 386
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "PROJECTS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 1116,
+      "y": 60,
+      "w": 410,
+      "h": 468
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "WISHLIST",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 656,
+      "w": 631,
+      "h": 255
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "QUOTE",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 781,
+      "y": 451,
+      "w": 326,
+      "h": 268
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  },
+  {
+    "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
+    "userId": "usr_1767825506370_0v10k3s",
+    "type": "SUBSCRIPTIONS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 1116,
+      "y": 533,
+      "w": 410,
+      "h": 214
+    },
+    "createdAt": "2026-02-02T17:54:45.778Z",
+    "updatedAt": "2026-02-02T19:46:05.222Z"
+  }
+]
