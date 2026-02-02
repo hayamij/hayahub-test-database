@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 23,
-      "y": 323,
+      "x": 9,
+      "y": 493,
       "w": 376,
       "h": 41
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T17:55:19.453Z"
+    "updatedAt": "2026-02-02T18:00:04.466Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 423,
-      "y": 363,
+      "x": 370,
+      "y": 519,
       "w": 376,
       "h": 41
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T17:55:20.212Z"
+    "updatedAt": "2026-02-02T18:00:03.252Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
