@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 616,
-      "y": 81,
+      "x": 1114,
+      "y": 22,
       "w": 457,
       "h": 397
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:14.247Z"
+    "updatedAt": "2026-02-02T18:00:17.228Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1084,
-      "y": 5,
-      "w": 356,
-      "h": 41
+      "x": 595,
+      "y": 2,
+      "w": 392,
+      "h": 253
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:00:06.998Z"
+    "updatedAt": "2026-02-02T18:00:19.331Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
