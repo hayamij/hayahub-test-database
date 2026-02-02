@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 429,
-      "y": 392,
+      "x": 538,
+      "y": 600,
       "w": 311,
       "h": 394
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:32.558Z"
+    "updatedAt": "2026-02-02T18:19:44.378Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 817,
-      "y": 429,
+      "x": 1506,
+      "y": 245,
       "w": 723,
       "h": 205
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T18:19:41.310Z"
+    "updatedAt": "2026-02-02T18:19:49.035Z"
   }
 ]
