@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 21,
-      "y": 61,
+      "x": 20,
+      "y": 60,
       "w": 876,
       "h": 598
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:30.650Z"
+    "updatedAt": "2026-02-02T19:44:49.739Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 634,
-      "y": 62,
-      "w": 280,
-      "h": 525
+      "x": 902,
+      "y": 61,
+      "w": 330,
+      "h": 524
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:36.524Z"
+    "updatedAt": "2026-02-02T19:44:57.483Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 965,
-      "y": 62,
+      "x": 1232,
+      "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:43.151Z"
+    "updatedAt": "2026-02-02T19:44:49.739Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 23,
-      "y": 423,
+      "x": 20,
+      "y": 663,
       "w": 631,
       "h": 255
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:48.193Z"
+    "updatedAt": "2026-02-02T19:44:49.739Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 490,
-      "y": 933,
+      "x": 901,
+      "y": 590,
       "w": 326,
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:27.951Z"
+    "updatedAt": "2026-02-02T19:44:49.739Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1183,
-      "y": 777,
+      "x": 1232,
+      "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-02T19:44:26.736Z"
+    "updatedAt": "2026-02-02T19:44:49.739Z"
   }
 ]
