@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 21,
-      "y": 61,
+      "x": 20,
+      "y": 60,
       "w": 630,
       "h": 416
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:19.070Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 656,
+      "x": 655,
       "y": 60,
       "w": 330,
       "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:04.762Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 991,
+      "x": 990,
       "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:04.762Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -47,13 +47,13 @@
     "type": "WISHLIST",
     "isVisible": true,
     "layoutPosition": {
-      "x": 21,
-      "y": 600,
+      "x": 20,
+      "y": 481,
       "w": 553,
       "h": 246
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:14.819Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 656,
+      "x": 655,
       "y": 451,
       "w": 326,
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:04.762Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 991,
+      "x": 990,
       "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:04.762Z"
+    "updatedAt": "2026-02-03T18:16:21.452Z"
   }
 ]
