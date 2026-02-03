@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 21,
-      "y": 61,
+      "x": 20,
+      "y": 60,
       "w": 604,
       "h": 534
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:02.424Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 781,
+      "x": 656,
       "y": 60,
       "w": 330,
       "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:15:59.598Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1116,
+      "x": 991,
       "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:15:59.598Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -48,12 +48,12 @@
     "isVisible": true,
     "layoutPosition": {
       "x": 20,
-      "y": 656,
+      "y": 599,
       "w": 631,
       "h": 255
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:15:59.598Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 781,
+      "x": 656,
       "y": 451,
       "w": 326,
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:15:59.598Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,12 +75,12 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1116,
+      "x": 991,
       "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:15:59.598Z"
+    "updatedAt": "2026-02-03T18:16:04.762Z"
   }
 ]
