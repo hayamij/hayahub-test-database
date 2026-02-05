@@ -11,7 +11,7 @@
       "h": 416
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -25,7 +25,7 @@
       "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -39,7 +39,7 @@
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -53,7 +53,7 @@
       "h": 246
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -67,7 +67,7 @@
       "h": 268
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -81,6 +81,90 @@
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:16:21.452Z"
+    "updatedAt": "2026-02-03T18:25:34.299Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-SPENDING-1770242054481-0",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "SPENDING",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 20,
+      "w": 400,
+      "h": 280
+    },
+    "createdAt": "2026-02-04T21:54:14.481Z",
+    "updatedAt": "2026-02-04T21:54:14.481Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-CALENDAR-1770242054481-1",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "CALENDAR",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 440,
+      "y": 20,
+      "w": 380,
+      "h": 320
+    },
+    "createdAt": "2026-02-04T21:54:14.481Z",
+    "updatedAt": "2026-02-04T21:54:14.481Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-PROJECTS-1770242054481-2",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "PROJECTS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 20,
+      "y": 320,
+      "w": 380,
+      "h": 300
+    },
+    "createdAt": "2026-02-04T21:54:14.481Z",
+    "updatedAt": "2026-02-04T21:54:14.481Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-WISHLIST-1770242054481-3",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "WISHLIST",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 840,
+      "y": 20,
+      "w": 360,
+      "h": 320
+    },
+    "createdAt": "2026-02-04T21:54:14.481Z",
+    "updatedAt": "2026-02-04T21:54:14.482Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-QUOTE-1770242054482-4",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "QUOTE",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 420,
+      "y": 360,
+      "w": 380,
+      "h": 260
+    },
+    "createdAt": "2026-02-04T21:54:14.482Z",
+    "updatedAt": "2026-02-04T21:54:14.482Z"
+  },
+  {
+    "id": "usr_1769703192664_5tdlcnp-widget-SUBSCRIPTIONS-1770242054482-5",
+    "userId": "usr_1769703192664_5tdlcnp",
+    "type": "SUBSCRIPTIONS",
+    "isVisible": true,
+    "layoutPosition": {
+      "x": 820,
+      "y": 360,
+      "w": 380,
+      "h": 260
+    },
+    "createdAt": "2026-02-04T21:54:14.482Z",
+    "updatedAt": "2026-02-04T21:54:14.482Z"
   }
 ]

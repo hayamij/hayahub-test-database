@@ -65,12 +65,18 @@
     "name": "test",
     "amount": 10000,
     "currency": "VND",
+    "layoutPosition": {
+      "x": 313.60003662109375,
+      "y": 73.58749389648438,
+      "w": 280,
+      "h": 180
+    },
     "frequency": "MONTHLY",
     "status": "ACTIVE",
     "startDate": "2026-01-29T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T00:00:00.000Z",
     "createdAt": "2026-01-29T16:13:35.471Z",
-    "updatedAt": "2026-01-29T16:13:35.471Z"
+    "updatedAt": "2026-02-04T21:55:21.558Z"
   },
   {
     "id": "sub_1769703563769_5whhqf2",
@@ -78,12 +84,18 @@
     "name": "test",
     "amount": 10000,
     "currency": "VND",
+    "layoutPosition": {
+      "x": 548.5750122070312,
+      "y": 70.5,
+      "w": 280,
+      "h": 180
+    },
     "frequency": "MONTHLY",
     "status": "ACTIVE",
     "startDate": "2026-01-29T00:00:00.000Z",
     "nextBillingDate": "2026-03-01T00:00:00.000Z",
     "createdAt": "2026-01-29T16:19:23.769Z",
-    "updatedAt": "2026-01-29T16:19:23.769Z"
+    "updatedAt": "2026-02-04T21:55:21.944Z"
   },
   {
     "id": "sub_1769929387240_wn0q079",
