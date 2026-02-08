@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 990,
-      "y": 60,
+      "x": 975,
+      "y": 220,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:25:34.299Z"
+    "updatedAt": "2026-02-08T19:15:21.955Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -75,13 +75,13 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 990,
-      "y": 533,
+      "x": 661,
+      "y": 522,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:25:34.299Z"
+    "updatedAt": "2026-02-08T19:15:20.633Z"
   },
   {
     "id": "usr_1769703192664_5tdlcnp-widget-SPENDING-1770242054481-0",
