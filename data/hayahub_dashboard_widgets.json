@@ -5,13 +5,13 @@
     "type": "SPENDING",
     "isVisible": true,
     "layoutPosition": {
-      "x": 20,
-      "y": 60,
+      "x": 616,
+      "y": 441,
       "w": 630,
       "h": 416
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:23.952Z"
+    "updatedAt": "2026-02-08T19:15:28.543Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -19,13 +19,13 @@
     "type": "CALENDAR",
     "isVisible": true,
     "layoutPosition": {
-      "x": 655,
-      "y": 60,
+      "x": 355,
+      "y": 328,
       "w": 330,
       "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:23.952Z"
+    "updatedAt": "2026-02-08T19:15:27.826Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 655,
-      "y": 451,
+      "x": 154,
+      "y": 581,
       "w": 329,
       "h": 306
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:23.952Z"
+    "updatedAt": "2026-02-08T19:15:27.169Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
