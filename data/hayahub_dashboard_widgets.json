@@ -11,7 +11,7 @@
       "h": 416
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:25:34.299Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-CALENDAR-1770054885778-1",
@@ -25,7 +25,7 @@
       "h": 386
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:25:34.299Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-PROJECTS-1770054885778-2",
@@ -33,13 +33,13 @@
     "type": "PROJECTS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 975,
-      "y": 220,
+      "x": 990,
+      "y": 60,
       "w": 410,
       "h": 468
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:21.955Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-WISHLIST-1770054885778-3",
@@ -53,7 +53,7 @@
       "h": 246
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-03T18:25:34.299Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-QUOTE-1770054885778-4",
@@ -61,13 +61,13 @@
     "type": "QUOTE",
     "isVisible": true,
     "layoutPosition": {
-      "x": 1234,
-      "y": 468,
+      "x": 655,
+      "y": 451,
       "w": 329,
       "h": 306
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:19.379Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1767825506370_0v10k3s-widget-SUBSCRIPTIONS-1770054885778-5",
@@ -75,13 +75,13 @@
     "type": "SUBSCRIPTIONS",
     "isVisible": true,
     "layoutPosition": {
-      "x": 661,
-      "y": 522,
+      "x": 990,
+      "y": 533,
       "w": 410,
       "h": 214
     },
     "createdAt": "2026-02-02T17:54:45.778Z",
-    "updatedAt": "2026-02-08T19:15:20.633Z"
+    "updatedAt": "2026-02-08T19:15:23.952Z"
   },
   {
     "id": "usr_1769703192664_5tdlcnp-widget-SPENDING-1770242054481-0",
