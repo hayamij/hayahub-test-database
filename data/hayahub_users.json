@@ -42,5 +42,14 @@
     "role": "USER",
     "createdAt": "2026-01-29T16:13:12.664Z",
     "updatedAt": "2026-01-29T16:13:12.664Z"
+  },
+  {
+    "id": "usr_1771384584803_jbkqahs",
+    "email": "mvenky00@gmail.com",
+    "name": "ABC",
+    "password": "VmVua3lAMTk5Mg==",
+    "role": "USER",
+    "createdAt": "2026-02-18T03:16:24.803Z",
+    "updatedAt": "2026-02-18T03:16:24.803Z"
   }
 ]
