@@ -31,11 +31,11 @@
     "title": "b",
     "description": "",
     "priority": "HIGH",
-    "completed": false,
+    "completed": true,
     "projectId": null,
     "dueDate": null,
-    "completedAt": null,
+    "completedAt": "2026-02-20T15:30:36.633Z",
     "createdAt": "2026-02-02T17:19:02.459Z",
-    "updatedAt": "2026-02-02T17:19:11.096Z"
+    "updatedAt": "2026-02-20T15:30:36.633Z"
   }
 ]
