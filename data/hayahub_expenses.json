@@ -1224,5 +1224,43 @@
     ],
     "createdAt": "2026-02-12T17:43:37.883Z",
     "updatedAt": "2026-02-12T17:43:37.883Z"
+  },
+  {
+    "id": "exp_1771779896762_yumvhdw",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì trứng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:04:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-22T17:04:56.763Z",
+    "updatedAt": "2026-02-22T17:04:56.763Z"
+  },
+  {
+    "id": "exp_1771779896774_gdmd10y",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:04:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-22T17:04:56.774Z",
+    "updatedAt": "2026-02-22T17:04:56.774Z"
+  },
+  {
+    "id": "exp_1771779896778_dysjcn6",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "vé xe BP-HCM",
+    "amount": 130000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-02-22T17:04:00.000Z",
+    "tags": [
+      "xe Thành Công"
+    ],
+    "createdAt": "2026-02-22T17:04:56.778Z",
+    "updatedAt": "2026-02-22T17:04:56.778Z"
   }
 ]
