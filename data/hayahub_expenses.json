@@ -1262,5 +1262,75 @@
     ],
     "createdAt": "2026-02-22T17:04:56.778Z",
     "updatedAt": "2026-02-22T17:04:56.778Z"
+  },
+  {
+    "id": "exp_1771779909935_269nn3n",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:05:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-22T17:05:09.935Z",
+    "updatedAt": "2026-02-22T17:05:09.935Z"
+  },
+  {
+    "id": "exp_1771779909944_0x5yv0w",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:05:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-22T17:05:09.944Z",
+    "updatedAt": "2026-02-22T17:05:09.944Z"
+  },
+  {
+    "id": "exp_1771779909946_y43exr5",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:05:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-22T17:05:09.946Z",
+    "updatedAt": "2026-02-22T17:05:09.946Z"
+  },
+  {
+    "id": "exp_1771779909949_d5w4e1u",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:05:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-22T17:05:09.949Z",
+    "updatedAt": "2026-02-22T17:05:09.949Z"
+  },
+  {
+    "id": "exp_1771779909952_10jbbtl",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh mì",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T17:05:00.000Z",
+    "tags": [
+      "bánh mì 2 trứng"
+    ],
+    "createdAt": "2026-02-22T17:05:09.952Z",
+    "updatedAt": "2026-02-22T17:05:09.952Z"
   }
 ]
