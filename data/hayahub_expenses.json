@@ -1530,20 +1530,6 @@
     "updatedAt": "2026-02-26T15:54:41.974Z"
   },
   {
-    "id": "exp_1772121291599_b1clf8s",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "vé xe BP-HCM",
-    "amount": 130000,
-    "currency": "VND",
-    "category": "TRANSPORT",
-    "date": "2026-02-26T15:54:00.000Z",
-    "tags": [
-      "xe Thành Công"
-    ],
-    "createdAt": "2026-02-26T15:54:51.599Z",
-    "updatedAt": "2026-02-26T15:54:51.599Z"
-  },
-  {
     "id": "exp_1772121291633_6y4q8pk",
     "userId": "usr_1767825506370_0v10k3s",
     "description": "cafe sữa",
