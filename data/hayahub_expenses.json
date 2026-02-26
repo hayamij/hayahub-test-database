@@ -1468,5 +1468,41 @@
     "tags": [],
     "createdAt": "2026-02-26T15:54:03.276Z",
     "updatedAt": "2026-02-26T15:54:03.276Z"
+  },
+  {
+    "id": "exp_1772121255639_nda1p0v",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cafe sữa",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T15:54:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:54:15.639Z",
+    "updatedAt": "2026-02-26T15:54:15.639Z"
+  },
+  {
+    "id": "exp_1772121255685_c2r72xv",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T15:54:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:54:15.685Z",
+    "updatedAt": "2026-02-26T15:54:15.685Z"
+  },
+  {
+    "id": "exp_1772121255729_fckonqz",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-22T15:54:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:54:15.729Z",
+    "updatedAt": "2026-02-26T15:54:15.729Z"
   }
 ]
