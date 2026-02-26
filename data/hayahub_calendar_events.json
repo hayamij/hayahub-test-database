@@ -154,5 +154,18 @@
     "reminders": [],
     "createdAt": "2026-02-07T15:43:10.538Z",
     "updatedAt": "2026-02-07T15:43:10.538Z"
+  },
+  {
+    "id": "cal_1772121404453_v0ym7gg",
+    "userId": "usr_1767825506370_0v10k3s",
+    "title": "lamweb",
+    "description": "",
+    "startDate": "2026-02-26T02:00:00.000Z",
+    "endDate": "2026-02-26T03:00:00.000Z",
+    "priority": "MEDIUM",
+    "isAllDay": false,
+    "reminders": [],
+    "createdAt": "2026-02-26T15:56:44.453Z",
+    "updatedAt": "2026-02-26T15:56:44.453Z"
   }
 ]
