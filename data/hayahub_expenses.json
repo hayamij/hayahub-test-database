@@ -1570,18 +1570,6 @@
     "updatedAt": "2026-02-26T15:55:13.261Z"
   },
   {
-    "id": "exp_1772121333243_bux4c3a",
-    "userId": "usr_1767825506370_0v10k3s",
-    "description": "cơm trưa",
-    "amount": 35000,
-    "currency": "VND",
-    "category": "FOOD",
-    "date": "2026-02-26T15:55:00.000Z",
-    "tags": [],
-    "createdAt": "2026-02-26T15:55:33.243Z",
-    "updatedAt": "2026-02-26T15:55:33.243Z"
-  },
-  {
     "id": "exp_1772121333279_q3tkkfq",
     "userId": "usr_1767825506370_0v10k3s",
     "description": "cơm trưa",
