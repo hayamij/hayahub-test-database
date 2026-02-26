@@ -1504,5 +1504,17 @@
     "tags": [],
     "createdAt": "2026-02-26T15:54:15.729Z",
     "updatedAt": "2026-02-26T15:54:15.729Z"
+  },
+  {
+    "id": "exp_1772121270774_pmlktsp",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bánh cuốn nóng",
+    "amount": 20000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-26T15:54:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:54:30.774Z",
+    "updatedAt": "2026-02-26T15:54:30.774Z"
   }
 ]
