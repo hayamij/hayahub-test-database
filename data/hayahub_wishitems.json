@@ -12,5 +12,19 @@
     "purchasedAt": "2026-02-02T16:25:34.280Z",
     "createdAt": "2026-02-02T16:25:18.691Z",
     "updatedAt": "2026-02-02T16:25:34.280Z"
+  },
+  {
+    "id": "wsh_1772121502044_8rqvidz",
+    "userId": "usr_1767825506370_0v10k3s",
+    "name": "Sony 24-70mm F2.8 GM",
+    "description": "",
+    "estimatedPrice": 21900000,
+    "currency": "VND",
+    "priority": 5,
+    "url": null,
+    "purchased": false,
+    "purchasedAt": null,
+    "createdAt": "2026-02-26T15:58:22.044Z",
+    "updatedAt": "2026-02-26T15:58:22.044Z"
   }
 ]
