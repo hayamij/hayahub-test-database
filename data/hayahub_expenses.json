@@ -1578,5 +1578,53 @@
     "tags": [],
     "createdAt": "2026-02-26T15:55:33.316Z",
     "updatedAt": "2026-02-26T15:55:33.316Z"
+  },
+  {
+    "id": "exp_1772121361537_x5sj76i",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-24T15:55:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:56:01.537Z",
+    "updatedAt": "2026-02-26T15:56:01.537Z"
+  },
+  {
+    "id": "exp_1772121361566_nj63aqe",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "cơm trưa",
+    "amount": 35000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-24T15:55:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:56:01.566Z",
+    "updatedAt": "2026-02-26T15:56:01.566Z"
+  },
+  {
+    "id": "exp_1772121361594_j6p4oec",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "bún xào chay",
+    "amount": 15000,
+    "currency": "VND",
+    "category": "FOOD",
+    "date": "2026-02-24T15:55:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:56:01.594Z",
+    "updatedAt": "2026-02-26T15:56:01.594Z"
+  },
+  {
+    "id": "exp_1772121361621_22iyq1h",
+    "userId": "usr_1767825506370_0v10k3s",
+    "description": "đổ xăng",
+    "amount": 50000,
+    "currency": "VND",
+    "category": "TRANSPORT",
+    "date": "2026-02-24T15:55:00.000Z",
+    "tags": [],
+    "createdAt": "2026-02-26T15:56:01.621Z",
+    "updatedAt": "2026-02-26T15:56:01.621Z"
   }
 ]
